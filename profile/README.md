@@ -12,7 +12,7 @@
     We are a multidisciplinary studio building <strong>games</strong>, <strong>engines</strong>, and <strong>hardware</strong>. We engineer systems from first principles—writing custom allocators, auditing kernels, and funding long-term hardware R&D by shipping commercial interactive media.
   </p>
   
-  <a href="https://github.com/orgs/tarantula-org/projects/1"><img src="https://img.shields.io/badge/Roadmap-View_Board-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Roadmap" /></a>
+  <a href="https://github.com/orgs/tarantula-org/projects/1"><img src="https://img.shields.io/badge/Kanban-View_Global-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Global" /></a>
 
 </div>
 

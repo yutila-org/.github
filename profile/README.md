@@ -19,7 +19,7 @@
 <div align="center">
   <h2>Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,rust,c,odin,godot,linux,docker,bash&perline=10&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=rust,c,godot,linux,docker,bash&perline=10&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 

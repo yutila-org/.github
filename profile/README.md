@@ -2,9 +2,7 @@
 
   <img src="/logo.svg" alt="Yutila Logo" width="100%" />
   
-  <a href="https://github.com/yutila-org">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Software,+Hardware+and+Art;Systems+Engineering+%26+Interactive+Media;Building+from+First+Principles" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/yutila-org"></a>
   
   <br>
 

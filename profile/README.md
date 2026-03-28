@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="/logo.svg" alt="Yutila Logo" width="100%" />
-  
-  <a href="https://github.com/yutila-org"></a>
+  <img src="../logo.svg" alt="Yutila Logo" width="100%" />
   
   <br>
 

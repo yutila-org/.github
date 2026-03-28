@@ -1,6 +1,6 @@
 # Security Policy
 
-Yutila prioritizes system integrity and secure architectural design. We adhere to strict vulnerability management and incident response protocols.
+Yutila prioritizes system integrity and secure architectural design. Our complete framework for vulnerability management, access control, and incident response is detailed in our [Security Policies](https://docs.google.com/document/d/1zqEZ9wyOiUj6hyH294iyZh9IXi8PnqnQC8UB7tnc0I0/edit?usp=sharing).
 
 ## Supported Versions
 
@@ -17,4 +17,4 @@ If you discover a potential vulnerability within any Yutila repository, do not d
    * **Critical/High:** Immediate Incident Response Team (IRT) mobilization. Expect an initial response within 24 hours.
    * **Medium/Low:** Scheduled for the next technical debt refactoring cycle.
 
-All reports trigger an evaluation against our internal Security Governance Policy. A post-mortem and remediation plan will be formulated for all validated vulnerabilities.
+All reports trigger an evaluation against our Security Policies. A post-mortem and remediation plan will be formulated for all validated vulnerabilities.

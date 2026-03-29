@@ -1,0 +1,19 @@
+name: Continuous Integration
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  sast-semgrep:
+    uses: yutila-org/.github/.github/workflows/semgrep.yml@main
+    
+  sbom-generation:
+    uses: yutila-org/.github/.github/workflows/sbom-syft.yml@main
+    with:
+      target-path: '.'
+
+  secret-scanning:
+    uses: yutila-org/.github/.github/workflows/secret-scan.yml@main

@@ -7,13 +7,13 @@ on:
     branches: [ "main" ]
 
 jobs:
-  sast-semgrep:
+  semgrep:
     uses: yutila-org/.github/.github/workflows/semgrep.yml@main
     
-  sbom-generation:
+  syft:
     uses: yutila-org/.github/.github/workflows/sbom.yml@main
     with:
       target-path: '.'
 
-  secret-scanning:
+  gitleaks:
     uses: yutila-org/.github/.github/workflows/secret-scan.yml@main

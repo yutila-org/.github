@@ -1,4 +1,4 @@
-name: SAST - Semgrep
+name: SAST
 
 on:
   workflow_call:

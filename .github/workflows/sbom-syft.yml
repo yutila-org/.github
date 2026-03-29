@@ -1,4 +1,4 @@
-name: Supply Chain - SBOM Generation
+name: SBOM
 
 on:
   workflow_call:

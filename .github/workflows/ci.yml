@@ -7,8 +7,8 @@ on:
     branches: [ "main" ]
 
 jobs:
-  semgrep:
-    uses: yutila-org/.github/.github/workflows/semgrep.yml@main
+  trivy:
+    uses: yutila-org/.github/.github/workflows/trivy.yml@main
     
   sbom:
     uses: yutila-org/.github/.github/workflows/sbom.yml@main

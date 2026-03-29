@@ -1,0 +1,31 @@
+name: Supply Chain - SBOM Generation
+
+on:
+  workflow_call:
+    inputs:
+      target-path:
+        description: 'Path to scan for dependencies'
+        required: false
+        type: string
+        default: '.'
+
+jobs:
+  generate-sbom:
+    name: Generate Syft SBOM
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate SBOM
+        uses: anchore/sbom-action@v0
+        with:
+          path: ${{ inputs.target-path }}
+          format: 'spdx-json'
+          output-file: 'yutila-sbom.spdx.json'
+
+      - name: Upload SBOM Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: yutila-sbom
+          path: yutila-sbom.spdx.json

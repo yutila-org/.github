@@ -1,9 +1,10 @@
 * @Acrilic @Spider-Kyle
 
 # Governance & Architecture
-# Core organizational structures, roadmaps, and CI/CD protocols require Directorate approval.
+# Core organizational structures, roadmaps, CI/CD, and global policies require Directorate approval.
 /.github/           @Acrilic @Spider-Kyle
 /profile/           @Acrilic @Spider-Kyle
+/policies/          @Acrilic @Spider-Kyle
 
 # Security
 # Vulnerability management and policy documents require Security Policy Officer / Incident Commander approval.

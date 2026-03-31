@@ -26,7 +26,7 @@
 <!-- Outline the detailed plan for implementing each proposed solution, including technical specifications, affected components, and required steps. -->
 
 ### Implementation: [Name of the implementation]
--   **Security & Privacy:** [Specify the exact security controls (e.g., TLS 1.3, Ed25519 signatures) or privacy safeguards (e.g., PII anonymization) for this component.]
+-   **Security & Privacy:** [Specify the exact security controls (e.g., TLS 1.3, Ed25519 signatures) or privacy safeguards (e.g., PII anonymization) for this component if applicable.]
 -   **Verification:** [Link to all the proposed tests for this implementation that are included in the same document.]
 
 **Description:** [Detailed description of the proposed implementation for the solution.]

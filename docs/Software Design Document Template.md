@@ -19,7 +19,7 @@
 
 ### Solution: [Name of the solution]
 -   **Statement:** [Clearly define the solution.]
--   **Security & Privacy:** [Define how this solution adheres to the Security Policies (e.g., encryption at rest, least privilege).]
+-   **Security & Privacy:** [Define how this solution adheres to the Security Policies if applicable (e.g., encryption at rest, least privilege).]
 -   **Implementations:** [Link to all the proposed implementations for this solution that are included in the same document.]
 
 ## 4. Implementation Details

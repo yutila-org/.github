@@ -1,12 +1,14 @@
 <div align="center">
 
-  <img src="../logo.svg" alt="Yutila Logo" width="100%" />
+  <img src="../logo.svg" alt="Yutila Logo" width="60%" />
   
   <br>
 
   <p width="600px">
     We are an organization in a <strong>pre-revenue</strong> phase focused on software, games, and hardware.
   </p>
+
+  <a href="https://web.akrillick.workers.dev"><img src="https://img.shields.io/badge/Website-ff5500?style=for-the-badge&logo=cloudflare&logoColor=white" height="36" /></a>
   
 </div>
 
